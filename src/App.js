@@ -74,7 +74,7 @@ function App() {
 
   return (
     <div className="App">
-     <h1>recipes von hamza </h1>
+     <h1>ismael bayyer </h1>
      <button> add recipe</button>
 
 
